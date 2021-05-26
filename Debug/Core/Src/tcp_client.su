@@ -1,0 +1,4 @@
+tcp_client.c:16:6:DNS_found_cb	40	static
+tcp_client.c:22:6:network_init	24	static
+tcp_client.c:39:5:network_connect	48	static
+tcp_client.c:65:6:tcp_client_task	88	static
